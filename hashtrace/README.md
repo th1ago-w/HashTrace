@@ -89,12 +89,3 @@ test_hashtrace.py     Testes automatizados
 exemplo/          Arquivos fictícios para experimentar
 ```
 
-## Ideias para evoluir
-
-- Exclusões configuráveis por padrão de nome.
-- Verificação periódica com intervalo configurável.
-- Detecção de alterações em permissões.
-
-Nome sugerido para o repositório: `hashtrace`.
-
-Descrição sugerida: `Monitor de integridade em Python que usa SHA-256 para identificar arquivos criados, alterados e excluídos, com relatórios JSON.`
