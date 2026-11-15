@@ -89,3 +89,6 @@ test_hashtrace.py     Testes automatizados
 exemplo/          Arquivos fictícios para experimentar
 ```
 
+## Demonstração
+
+<img width="1650" height="1323" alt="hashtrace" src="https://github.com/user-attachments/assets/f1d9b13e-1eb5-4043-ba8a-49c2c4ddaa2d" />
